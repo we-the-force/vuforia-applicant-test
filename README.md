@@ -1,4 +1,4 @@
-# Vuforia Applicant Test
+# XR Job Applicant Test
 
 Vuforia Test for understand how an applicant solve a problem and the process of how he/she work
 
@@ -11,7 +11,7 @@ Create an **AR Unity Project** to **place** and visualize any **3D model on a re
 ## The user should be able to...
 
 - Place the 3D model with or without the help of a [Ground Plane](https://library.vuforia.com/content/vuforia-library/en/articles/Solution/ground-plane-guide.html).
-- Interact with de 3D model via touch controls on the deployment device.
+- Interact with de 3D model via touch controls on the testing device.
 - Move, Rotate and Scale the 3D model
 
 
