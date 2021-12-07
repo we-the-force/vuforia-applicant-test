@@ -26,6 +26,7 @@ For the solution you must make use of this packages in the Unity Project:
 
 - Remember to add the correct [.gitignore](https://github.com/github/gitignore/blob/main/Unity.gitignore) file for the unity project.
 - And for the assets to be pushed to the repo make sure to add [Git Large File Storage](https://git-lfs.github.com/) to the Project.
+- You could fork this repo and start working on it with the included .gitignore file. Just add Git LFS.
 
 
 ## Solution
