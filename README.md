@@ -5,7 +5,7 @@ Vuforia Test for understand how an applicant solve a problem and the process of 
 
 ## Test Briefing
 
-Create an **AR Unity Project** to **place** and visualize any **3D model on a real world surface**. The user should be able to **manipulate the 3D model** with touch controls(**move, rotate and scale**).
+Create an **AR Unity Project** to **place** and visualize any **3D model on a real world surface**. The user should be able to **manipulate the 3D model** with touch controls(**move, rotate and scale**). **The applicant will have 36hrs to respond with a result via email**.
 
 
 ## The user should be able to...
